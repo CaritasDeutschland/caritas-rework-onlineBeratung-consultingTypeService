@@ -47,7 +47,7 @@
     <liquibase-maven-plugin.version>4.1.1</liquibase-maven-plugin.version>
     <owasp-java-html-sanitizer.version>20211018.2</owasp-java-html-sanitizer.version>
     <liquibase-core.version>4.9.1</liquibase-core.version>
-    <hibernate-validator.version>6.1.6.Final</hibernate-validator.version>
+    <hibernate-validator.version>6.2.0.Final</hibernate-validator.version>
     <spring-security-test.version>5.5.7</spring-security-test.version>
     <spring-boot-starter-data-mongodb.version>2.7.5</spring-boot-starter-data-mongodb.version>
     <spring-boot-starter.version>2.6.15</spring-boot-starter.version>
